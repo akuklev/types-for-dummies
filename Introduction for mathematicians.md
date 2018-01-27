@@ -10,8 +10,10 @@ a set with a binary operation.
  (a, b)
 ```
 
-It means, “whenever we have expressions `a` and `b`, we may construct an expression
-`(a, b)`”. Rules can be composed by substitution:
+It means, whenever we have expressions `a` and `b`, we may construct an expression
+`(a, b)`”.
+
+Rules can be composed by substitution:
 ```
  a    b
 ————————
