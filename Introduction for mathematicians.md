@@ -22,8 +22,7 @@ It means, “whenever we have expressions `a` and `b`, we may construct an expre
 Such “pictures” are called derivation trees.
 
 Expressions are to be understood as their parsing trees (we leave out all technicalities related to parsing,
-operator fixity, precedence and gathering rules; they are essential for convinience of notation, but do not
-interfere with structure of expressions in any way). Formation rules have to be nonconflicting so every
+operator fixity, precedence and gathering rules; they are essential for convinience of notation, yet have nothing to do with the intrinsic structure of expressions). Formation rules have to be nonconflicting so every
 expression, if written out as a tree, can be considered its own canocical derivation tree.
 
 More interesting type systems also contain some (computation) rules defining allowed symbolic manipulations
