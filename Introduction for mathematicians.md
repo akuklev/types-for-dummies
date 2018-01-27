@@ -2,8 +2,7 @@
 
 Type theory begins when one starts to take the notation seriously. In the simplest case,
 a type system is given by a collection of (formation) rules defining a certain grammar.
-Formation rules consist of a collection of premisses written above a horizontal line,
-and a result, written below the line. Here is the definition of a notation for a magma:
+Formation rules define expression formers (written below a horizontal line) admissible under a number of premisses written above the line. Here is the definition of a notation for a magma:
 a set with a binary operation.
 ```
  a    b
