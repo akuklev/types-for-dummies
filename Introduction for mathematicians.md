@@ -26,7 +26,7 @@ Such “pictures” are called derivation trees.
 
 Expressions are to be understood as their parsing trees (we leave out all technicalities related to parsing,
 operator fixity, precedence and gathering rules; they are essential for convinience of notation, yet have nothing to do with the intrinsic structure of expressions). Formation rules have to be nonconflicting so every
-expression, if written out as a tree, can be considered its own canocical derivation tree.
+expression, if written out as a tree, can be considered its own canonical derivation tree.
 
 Type theories may also contain some (computation) rules defining allowed symbolic manipulations
 on expressions. Take a look at a definition of a notation for a monoid:
